@@ -5,7 +5,6 @@
                 <div class="card-body">
                     <div class="p-4 rounded  border">
                         <div class="text-center">
-                            <img src="../../../assets/images/icons/forgot-2.png" width="120" alt="">
                         </div>
                         <div class="text-center">
                             <h4 class="mt-3 font-weight-bold" style="color: white;">Quên Mật Khẩu?</h4>
