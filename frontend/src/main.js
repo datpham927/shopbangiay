@@ -2,11 +2,12 @@ import { createApp } from 'vue';
 import App from './App.vue';
 import router from './router';
 import Toaster from "@meforma/vue-toaster";
-import Client from '@/Layout/Wrapper/MasterClient.vue';
-import Auth from '@/Layout/Wrapper/AuthClient.vue';
-import Default from '@/Layout/Wrapper/MasterRocker.vue';
-import Admin from '@/Layout/Wrapper/MasterAdmin.vue';
-import AuthAdmin from '@/Layout/Wrapper/AuthAdmin.vue';
+import Client from '@/layout/wrapper/MasterClient.vue';
+import Auth from '@/layout/wrapper/AuthClient.vue';
+import Default from '@/layout/wrapper/MasterRocker.vue';
+import Admin from '@/layout/wrapper/MasterAdmin.vue';
+import AuthAdmin from '@/layout/wrapper/AuthAdmin.vue';
+
 
 const app = createApp(App);
 
